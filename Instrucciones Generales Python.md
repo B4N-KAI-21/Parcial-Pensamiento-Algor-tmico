@@ -35,7 +35,7 @@ El personaje recibe 50.00 de daño total.
 ## Código Fuente
 
 ```python
-# Solicitar la cantidad de daño del ataque mágico (d) y la resistencia mágica (r)
+#Aca se compara cantidad de daño y la resistencia mágica para dar un resultado
 d = int(input("Ingresa la cantidad del ataque mágico en puntos de daño: "))
 r = int(input("Ingresa la resistencia mágica del personaje en porcentaje: "))
 
